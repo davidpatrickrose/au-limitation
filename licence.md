@@ -16,7 +16,7 @@ To the fullest extent permitted by the law, all terms and conditions implied by 
 
 ## Limitation of liability
 
-The User procures the Content from User entirely at its own risk. To the fullest extent permitted by law, Old Mate excludes all liability (including Consequential Loss) to User for any liabilities connected directly or indirectly with the provision of the Content by Old Mate, including liabilities based on:
+The User procures the Content from Old Mate entirely at its own risk. To the fullest extent permitted by law, Old Mate excludes all liability (including Consequential Loss) to User for any liabilities connected directly or indirectly with the provision of the Content by Old Mate, including liabilities based on:
 - contract law;
 - tort law; or
 - legislation,

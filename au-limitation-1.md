@@ -36,7 +36,7 @@ Defined terms in this document will have the meanings described below.
 means the terms and conditions constituting the legally binding agreement that incorporates this document.
 
 ### Amount
-means the liability cap described in the Agreement provision importing this document.
+means the liability cap described in the Provision.
 
 ### Compulsory Condition
 means any term or condition that by law cannot be limited or excluded.

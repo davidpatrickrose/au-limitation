@@ -20,7 +20,7 @@ To the fullest extent permitted by the law, Limiting Party's liability for breac
 	+ the replacement of the relevant goods or the supply of equivalent goods;
 	+ the repair of the relevant goods;
 	+ the payment of the cost of replacing the relevant goods or of acquiring equivalent goods; or
-	+ the payment of the cost of having the relevant goods repaired,
+	+ the payment of the cost of having the relevant goods repaired; and
 
 - in a case where a breach is deemed to be a breach in respect of services:
 	+ the resupply of the relevant services; or

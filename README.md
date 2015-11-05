@@ -2,13 +2,13 @@
 
 ### Purpose
 
-The limitation language in this repo is language for limitation of liability positions in **Australian** legal agreements.  The examples assume the use of the LawPatch clause [here](https://github.com/lawpatch/lawpatch-docs).
+The limitation language in this repo is language for limitation of liability positions in **Australian** legal agreements.  The examples assume the use of the LawPatch clause <a href="https://github.com/lawpatch/lawpatch-docs" target="_blank">here</a>.
 
 ### Simple Limitations with LawPatch
 
 Limitation of liability is a technical area.  If you want to draft an effective limitation, you end up with a lot of formulaic language.  LawPatch allows you to factor the technical language out.  Here's an example of a full limitation of liability using LawPatch:
 
-> Provider [limits liability as much as the law allows](http://lawpatch.org) to Customer for the Services, including liabilities caused by:
+> Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-0.md" target="_blank">limits liability as much as the law allows</a> to Customer for the Services, including liabilities caused by:
 - data loss;
 - software bugs, viruses and vulnerabilities; and
 - accessibility of any software or data.
@@ -39,7 +39,7 @@ Position parameters are:
 
 Here is an example of language importing the full limitation of liability.
 
-> Provider [limits liability as much as the law allows](http://lawpatch.org) to Customer for the Services, including liabilities caused by:
+> Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-0.md" target="_blank">limits liability as much as the law allows</a> to Customer for the Services, including liabilities caused by:
 - data loss;
 - software security vulnerabilities; and
 - accessibility of any software or data.
@@ -56,7 +56,7 @@ Position parameters are:
 
 Here is an example of language importing the limitation to amount.
 
-> Provider limits liability to Customer for the Services to the cost of the Services in accordance with the [LawPatch amount limitation](http://lawpatch.org), including liabilities caused by:
+> Provider limits liability to Customer for the Services to the cost of the Services in accordance with the <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-1.md" target="_blank">LawPatch amount limitation</a>, including liabilities caused by:
 - data loss;
 - software bugs, viruses and vulnerabilities; and
 - accessibility of any software or data.
@@ -72,7 +72,7 @@ Position parameters are:
 
 Here is an example of language importing the limitation of consequential loss.
 
-> Provider [covers liabilities (except for consequential loss)](http://lawpatch.org) to Customer for the Services, including liabilities caused by:
+> Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-2.md" target="_blank">covers liabilities (except for consequential loss)</a> to Customer for the Services, including liabilities caused by:
 - data loss;
 - software bugs, viruses and vulnerabilities; and
 - accessibility of any software or data.
@@ -86,26 +86,26 @@ Position parameters are:
 
 Here is an example of language calling a module to cover all losses.
 
-> Provider [covers all liabilities incurred](http://lawpatch.org) by Customer for the Services.
+> Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-3.md" target="_blank">covers all liabilities incurred</a> by Customer for the Services.
 
 ### Using Multiple Positions
 
 The parties will often have different liability positions in respect of each other.  Here's an example.
 
-> - Provider [limits liability as much as the law allows](http://lawpatch.org) to Customer for the Services, including liabilities caused by:
+> - Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-0.md" target="_blank">limits liability as much as the law allows</a> to Customer for the Services, including liabilities caused by:
     - data loss;
     - software bugs, viruses and vulnerabilities; and
     - accessibility of any software or data.
-- Customer [covers liability except for consequential loss]() to Customer for breaches of the Agreement.
+- Customer <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-2.md" target="_blank">covers liability except for consequential loss</a> to Customer for breaches of the Agreement.
 
 There is an optional exception parameter for each position listed above. Here's how it might look if you use it.  In this example, the Provider fully limits liability for services but makes an exception for maintenance work, where there is no limitation.
 
-> Provider [limits liability as much as the law allows](http://lawpatch.org) to Customer for the Services, including liabilities caused by:
+> Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-0.md" target="_blank">limits liability as much as the law allows</a> to Customer for the Services, including liabilities caused by:
 - data loss;
 - software bugs, viruses and vulnerabilities; and
 - accessibility of any software or data,
 
->except for Maintenance where Provider [covers all liability](http://example.com) of Customer.
+>except for Maintenance where Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-0.md" target="_blank">covers all liability</a> of Customer.
 
 ### Not Legal Advice
 

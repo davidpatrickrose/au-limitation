@@ -105,7 +105,7 @@ There is an optional exception parameter for each position listed above. Here's 
 - software bugs, viruses and vulnerabilities; and
 - accessibility of any software or data,
 
->except for Maintenance where Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-0.md" target="_blank">covers all liability</a> of Customer.
+> except for Maintenance where Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-3.md" target="_blank">covers all liability</a> of Customer.
 
 ### Not Legal Advice
 

@@ -2,7 +2,7 @@
 
 ### Purpose
 
-The limitation language in this repo is language for limitation of liability positions in **Australian** legal agreements.  The examples assume the use of the LawPatch clause <a href="https://github.com/lawpatch/lawpatch-docs" target="_blank">here</a>.
+The limitation language in this repo is language for limitation of liability positions in **Australian** legal agreements.  The examples assume the use of the LawPatch description clause <a href="https://github.com/lawpatch/lawpatch-docs" target="_blank">here</a>.
 
 ### Simple Limitations with LawPatch
 
@@ -37,7 +37,7 @@ Position parameters are:
 - `Risks` - A description of specific risks that liability is limited in relation to; and
 - `Exception` (optional) - An exception to the limitation of liability.
 
-Here is an example of language importing the full limitation of liability.
+Here is an example of language incorporating the full limitation of liability.
 
 > Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-0.md" target="_blank">limits liability as much as the law allows</a> to Customer for the Services, including liabilities caused by:
 - data loss;
@@ -54,7 +54,7 @@ Position parameters are:
 - `Risks` - A description of specific risks that liability is limited in relation to; and
 - `Exception` (optional) - An exception to the limitation of liability.
 
-Here is an example of language importing the limitation to amount.
+Here is an example of language incorporating the limitation to an amount.
 
 > Provider limits liability to Customer for the Services to the cost of the Services in accordance with the <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-1.md" target="_blank">LawPatch amount limitation</a>, including liabilities caused by:
 - data loss;
@@ -70,7 +70,7 @@ Position parameters are:
 - `Risks` - A description of specific risks that liability is limited in relation to; and
 - `Exception` (optional) - An exception to the limitation of liability.
 
-Here is an example of language importing the limitation of consequential loss.
+Here is an example of language incorporating the limitation of consequential loss.
 
 > Provider <a href="https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-2.md" target="_blank">covers liabilities (except for consequential loss)</a> to Customer for the Services, including liabilities caused by:
 - data loss;

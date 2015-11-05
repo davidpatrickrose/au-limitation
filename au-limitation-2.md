@@ -1,6 +1,6 @@
 ## Limitation of Liability
 
-Recipient deals with the Limiting Party in respect of the Subject at its own risk. To the fullest extent permitted by law, Limiting Party excludes all liability (including Consequential Loss) to Recipient for any liabilities connected directly or indirectly with the Recipient and Limiting Party dealings in relation to the Subject, including liabilities based on:
+Recipient will be liable to Limiting Party for liabilities arising directly from the Limiting Party and Recipient dealings in relation to the Subject, however, to the fullest extent permitted by law, Limiting Party excludes any liability for Consequential Loss to Recipient in relation to any liabilities connected directly or indirectly with the Limiting Party and Recipient dealings in relation to the Subject, including liabilities based on:
 
 - contract law;
 - tort law; or
@@ -13,22 +13,6 @@ Where there is an Exception, this limitation of liability does not apply to the 
 ## Implied Conditions
 
 To the fullest extent permitted by the law, all terms and conditions implied by any other source of law in relation to dealings between the Limiting Party and the Recipient in respect of the Subject are excluded from the Agreement.
-
-## Compulsory Conditions
-
-To the fullest extent permitted by the law, Limiting Party's liability to the Recipient for breaching a Compulsory Condition in relation to the Subject is limited to:
-
-- in a case where a breach is deemed to be a breach in respect of goods:
-	+ the replacement of the relevant goods or the supply of equivalent goods;
-	+ the repair of the relevant goods;
-	+ the payment of the cost of replacing the relevant goods or of acquiring equivalent goods; or
-	+ the payment of the cost of having the relevant goods repaired; and
-
-- in a case where a breach is deemed to be a breach in respect of services:
-	+ the resupply of the relevant services; or
-	+ payment of a sum equal to the cost of resupplying the relevant services.
-
-The Limiting Party will choose which of these options will apply.
 
 ## Definitions
 
